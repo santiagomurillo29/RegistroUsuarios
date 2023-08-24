@@ -1,0 +1,28 @@
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\bin\Debug\FORM.exe.config
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\bin\Debug\FORM.exe
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\bin\Debug\FORM.pdb
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\bin\Debug\Lib_logica_usuario.dll
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\bin\Debug\Lib_logica_usuario.pdb
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.Form1.resources
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.Properties.Resources.resources
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.csproj.CopyComplete
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.exe
+C:\Users\Santiago\Desktop\nuevo praactica.c\FORM\FORM\obj\Debug\FORM.pdb
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\bin\Debug\FORM.exe.config
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\bin\Debug\FORM.exe
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\bin\Debug\FORM.pdb
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\bin\Debug\Lib_logica_usuario.dll
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\bin\Debug\Lib_logica_usuario.pdb
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.Form1.resources
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.Properties.Resources.resources
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.csproj.CopyComplete
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.exe
+C:\Users\Santiago\Desktop\GIT\RegistroUsuarios\FORM\FORM\obj\Debug\FORM.pdb

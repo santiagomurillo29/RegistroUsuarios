@@ -1,0 +1,6 @@
+C:\Users\Santiago\Desktop\nuevo praactica.c\Lib_logica_usuario\Lib_logica_usuario\bin\Debug\Lib_logica_usuario.dll
+C:\Users\Santiago\Desktop\nuevo praactica.c\Lib_logica_usuario\Lib_logica_usuario\bin\Debug\Lib_logica_usuario.pdb
+C:\Users\Santiago\Desktop\nuevo praactica.c\Lib_logica_usuario\Lib_logica_usuario\obj\Debug\Lib_logica_usuario.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\nuevo praactica.c\Lib_logica_usuario\Lib_logica_usuario\obj\Debug\Lib_logica_usuario.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\nuevo praactica.c\Lib_logica_usuario\Lib_logica_usuario\obj\Debug\Lib_logica_usuario.dll
+C:\Users\Santiago\Desktop\nuevo praactica.c\Lib_logica_usuario\Lib_logica_usuario\obj\Debug\Lib_logica_usuario.pdb
